@@ -1,5 +1,5 @@
 # prototype-test
 
-## H1 test
+## A tiny project to learn how to setup GitHub pages
 
-Hello world
+
